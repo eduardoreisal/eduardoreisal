@@ -1,5 +1,8 @@
+[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://eduardoreisal.io)
 <h1 align="center">Oi 👋, eu me chamo Eduardo</h1>
 <h3 align="center">Eu sou um engenheiro de dados em formação</h3>
+
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoreisal&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoreisal" /> </p>
 
